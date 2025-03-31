@@ -43,3 +43,6 @@ else:
     print("Wrong Answer! Note: Answer should be in lowercase")
 
 print("you got ",count, " correct answer out of 4!")
+
+#to learn from this project is
+#1). quit() function 2). how to take prompt input 3). lowercase all characters
